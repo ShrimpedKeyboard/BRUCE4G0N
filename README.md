@@ -5,7 +5,7 @@
 I LOVE V4N ROWS
 
 
-![alt text](https://github.com/ShrimpedKeyboard/Shrimptana/blob/main/Misc/KLE.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/BRUCE4G0N/blob/main/KLE/Bruce4g0n.png?raw=true)
  --- 
 
 ## Case
@@ -14,9 +14,9 @@ BRUCE4G0N uses an 8 layer case with a bottom mount/Gasket mount plate
 The case uses m3 spacers and screws and the plate uses m2 / 40mm gaskets
 ignore how ass these renders are i cant find keycaps for renders
 
-![alt text](https://github.com/ShrimpedKeyboard/Shrimptana/blob/main/Gallery/Renders/Case%201.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/BRUCE4G0N/blob/main/Pics/Case%201.png?raw=true)
 
-![alt text](https://github.com/ShrimpedKeyboard/Shrimptana/blob/main/Gallery/Renders/Case%202.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/BRUCE4G0N/blob/main/Pics/Case%202.png?raw=true)
 
  --- 
 
