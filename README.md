@@ -22,7 +22,7 @@ ignore how ass these renders are i cant find keycaps for renders
 
 ## PCB
 
-A hotswap pro micro keyboard using shift registers and battery jst for wireless
+A hotswap pro micro keyboard with battery jst for wireless
 
  --- 
 
